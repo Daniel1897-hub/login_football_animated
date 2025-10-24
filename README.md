@@ -1,4 +1,4 @@
-# login_football
+# login_football_animated
 
 Applicazione Flutter con login animato e sfondi a tema calcio.
 
@@ -42,8 +42,6 @@ Puoi aggiungere nuove immagini nella cartella `assets/` e aggiornare la lista ne
 ## Autore
 
 Creato da Daniel Barresi.
-
-
 
 ## Guida rapida
 
